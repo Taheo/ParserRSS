@@ -1,0 +1,2 @@
+define(["require","exports"],function(r,e){"use strict";function n(r,e){var n=r||{};for(var t in e)e.hasOwnProperty(t)&&(n[t]=e[t]);return n}function t(r,e){var n=r||{};for(var t in e)e.hasOwnProperty(t)&&!n.hasOwnProperty(t)&&(n[t]=e[t]);return n}function o(r){return n({},r)}function u(r,e){return n(o(r),e)}function i(r,e){for(var n in r)e.hasOwnProperty(n)||delete r[n]}Object.defineProperty(e,"__esModule",{value:!0}),e.apply=n,e.ensure=t,e.copy=o,e.merge=u,e.trim=i});
+//# sourceMappingURL=MapUtility.js.map

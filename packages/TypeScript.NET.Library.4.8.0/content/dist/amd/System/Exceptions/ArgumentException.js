@@ -1,0 +1,2 @@
+define(["require","exports","./SystemException","../Text/Utility","../../extends"],function(t,e,n,i,r){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var u=r["default"],o="ArgumentException",c=function(t){function e(e,n,r,u){var o=this,c=e?"{"+e+"} ":"";return o=t.call(this,i.trim(c+(n||"")),r,function(t){t.paramName=e,u&&u(t)})||this}return u(e,t),e.prototype.getName=function(){return o},e}(n.SystemException);e.ArgumentException=c,e["default"]=c});
+//# sourceMappingURL=ArgumentException.js.map

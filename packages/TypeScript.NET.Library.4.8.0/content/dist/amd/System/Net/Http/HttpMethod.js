@@ -1,0 +1,2 @@
+define(["require","exports"],function(e,E){"use strict";Object.defineProperty(E,"__esModule",{value:!0});var T;!function(e){e.OPTIONS="OPTIONS",e.HEAD="HEAD",e.GET="GET",e.PUT="PUT",e.POST="POST",e.DELETE="DELETE",e.TRACE="TRACE",e.CONNECT="CONNECT"}(T=E.HttpMethod||(E.HttpMethod={}))});
+//# sourceMappingURL=HttpMethod.js.map
